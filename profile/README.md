@@ -1,4 +1,4 @@
-# ![Group 87](https://user-images.githubusercontent.com/44106773/218340444-c456db76-b838-47d1-8bd2-08e8a527e210.png)
+# ![numoen_logo_88](https://github.com/Numoen/.github/assets/44106773/003f1f1b-485c-4803-a847-5c92c2661fc7)
 
 
 **_Enabling the automated exchange of on-chain derivatives._**
