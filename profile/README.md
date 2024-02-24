@@ -2,7 +2,7 @@
 
 **_Enabling the automated exchange of on-chain derivatives._**
 
-Numoen is building a protocol for the trustless and automated exchange of quadratic perpetuals on Ethereum. We are committed to an autonomous financial system that is usable and fair to everyone.
+Numo is building an automated, efficient market maker for options on Ethereum. We are committed to an autonomous financial system that is usable and fair to everyone.
 
 ## Links
 
