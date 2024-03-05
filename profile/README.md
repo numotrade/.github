@@ -1,8 +1,8 @@
-# ![Group 182 (1)](https://github.com/Numoen/.github/assets/44106773/7ed699be-183b-4758-91bc-c88950e9e9f4)
+# ![Group 186](https://github.com/numo-hq/.github/assets/44106773/c5c7cdd5-fa50-4407-80bf-cdb1ebd2b5fe)
 
 **_Enabling the automated exchange of on-chain derivatives._**
 
-Numo is building an efficient, automated market maker for options on Ethereum. We are committed to an autonomous financial system that is usable and fair to everyone.
+Numo is building an efficient, automated market maker for power perpetuals on Ethereum. We are committed to an autonomous financial system that is usable and fair to everyone.
 
 ## Links
 
