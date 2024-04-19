@@ -1,4 +1,4 @@
-# ![Section 1](https://github.com/numotrade/.github/assets/44106773/739c1987-86aa-4d17-ba8e-ebce017e1260)
+# ![Group 222](https://github.com/numotrade/.github/assets/44106773/dc38a6fd-e902-4686-afbb-57358baddb50)
 
 **_Enabling exotic leverage on any token._**
 
