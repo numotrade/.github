@@ -1,14 +1,12 @@
-# ![Group 186](https://github.com/numo-hq/.github/assets/44106773/c5c7cdd5-fa50-4407-80bf-cdb1ebd2b5fe)
+# ![Section 1](https://github.com/numotrade/.github/assets/44106773/739c1987-86aa-4d17-ba8e-ebce017e1260)
 
-**_Enabling the automated exchange of on-chain derivatives._**
+**_Enabling exotic leverage on any token._**
 
-Numo is building an efficient, automated market maker for power perpetuals on Ethereum. We are committed to an autonomous financial system that is usable and fair to everyone.
+Numo interacts with on-chain protocols to enable leverage on any token without trusted intermediaries. We are committed to an autonomous financial system that is usable and fair to everyone.
 
 ## Links
 
-* [Website](https://www.numoen.com/)
+* [Website](https://www.numo.trade/)
 
-* [Twitter](https://twitter.com/numoen)
-
-
+* [Twitter](https://twitter.com/numotrade)
 
