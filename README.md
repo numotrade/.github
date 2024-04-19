@@ -1,1 +1,1 @@
-Profile readme for the Numoen organization.
+Profile readme for the Numo organization.
